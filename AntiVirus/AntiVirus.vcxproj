@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="prog.c" />
+    <ClCompile Include="AntiVirus.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="dirent.h" />
