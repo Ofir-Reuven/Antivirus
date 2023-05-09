@@ -23,6 +23,7 @@
     <ProjectGuid>{57d10a80-c0a0-4a6c-9ec3-6de8db9537b6}</ProjectGuid>
     <RootNamespace>HW8_OfirReuven</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>AntiVirus</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

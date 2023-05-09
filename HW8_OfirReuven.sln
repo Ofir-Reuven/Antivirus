@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32407.337
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HW8_OfirReuven", "HW8_OfirReuven\HW8_OfirReuven.vcxproj", "{57D10A80-C0A0-4A6C-9EC3-6DE8DB9537B6}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AntiVirus", "AntiVirus\AntiVirus.vcxproj", "{57D10A80-C0A0-4A6C-9EC3-6DE8DB9537B6}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HW8_OfirReuven_BONUS", "HW8_OfirReuven_BONUS\HW8_OfirReuven_BONUS.vcxproj", "{0DF52D1E-0BF8-4C91-AC9F-866DCF94C008}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CopyVirusSign", "CopyVirusSign\CopyVirusSign.vcxproj", "{0DF52D1E-0BF8-4C91-AC9F-866DCF94C008}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

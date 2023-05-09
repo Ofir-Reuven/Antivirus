@@ -5,6 +5,7 @@
 * Credits:                       *
 **********************************/
 #pragma warning(disable : 4996)
+
 #include <stdio.h>
 #include <stdlib.h>
 #define REQUIRED_ARGS 4
